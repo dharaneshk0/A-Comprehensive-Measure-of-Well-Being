@@ -151,7 +151,7 @@ HDI = (Health × Education × Income)^(1/3)
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dharaneshk0/A-Comprehensive-Measure-of-Well-Being
 cd SmartBridge
 ```
 
