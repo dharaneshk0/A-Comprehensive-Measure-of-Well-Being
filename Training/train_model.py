@@ -4,6 +4,10 @@ Executes the HDI training pipeline (Epics 3-7) end-to-end and saves HDI.pkl.
 This mirrors exactly what HumDevIndex.ipynb does, so the saved model is the
 same one the notebook would produce.
 """
+import pandas as pd
+import numpy as np
+import matploylib.pylot as plt
+import seaborn as sns
 import os
 import numpy as np
 import pandas as pd
